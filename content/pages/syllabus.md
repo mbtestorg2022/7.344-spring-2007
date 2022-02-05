@@ -52,17 +52,126 @@ Successful conclusion of the course requires the completion of two projects. Att
 Calendar
 --------
 
-| SES # | TOPICS |
-| --- | --- |
-| 1 | Introduction |
-| 2 | Toxins I: Toxins that target the ribosome - Ricin and Shiga toxin |
-| 3 | Toxins II: Toxins that target eukaryotic elongation factor 2 - Diphtheria toxin and Pseudomonas exotoxin A |
-| 4 | Toxins III: Toxins that target tRNA - Bacterial colicins and the eukaryotic γ-toxin |
-| 5 | Mechanism and action of antibiotics I: Tetracycline and other antibiotics that target the 30S ribosomal subunit |
-| 6 | Mechanism and action of antibiotics II: Chloramphenicol and other antibiotics that target the 50S ribosomal subunit |
-| 7 | Mechanism and action of antibiotics III: Aminoglycoside antibiotics - Antibiotics that affect translational fidelity |
-| 8 | Protein engineering I: Incorporation of unnatural amino acids into proteins - Making SENSE out of NON-SENSE |
-| 9 | Protein engineering II: Incorporation of unnatural amino acids into proteins - Use of ribosomal frameshift-suppressor tRNAs and editing-defective aminoacyl-tRNA synthetases |
-| 10 | Protein engineering III: In vitro evolution of proteins |
-| 11 | The translational apparatus and human diseases |
-| 12 | Epilogue
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Toxins I: Toxins that target the ribosome - Ricin and Shiga toxin
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Toxins II: Toxins that target eukaryotic elongation factor 2 - Diphtheria toxin and Pseudomonas exotoxin A
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Toxins III: Toxins that target tRNA - Bacterial colicins and the eukaryotic γ-toxin
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Mechanism and action of antibiotics I: Tetracycline and other antibiotics that target the 30S ribosomal subunit
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Mechanism and action of antibiotics II: Chloramphenicol and other antibiotics that target the 50S ribosomal subunit
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Mechanism and action of antibiotics III: Aminoglycoside antibiotics - Antibiotics that affect translational fidelity
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Protein engineering I: Incorporation of unnatural amino acids into proteins - Making SENSE out of NON-SENSE
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Protein engineering II: Incorporation of unnatural amino acids into proteins - Use of ribosomal frameshift-suppressor tRNAs and editing-defective aminoacyl-tRNA synthetases
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Protein engineering III: In vitro evolution of proteins
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+The translational apparatus and human diseases
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Epilogue
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
